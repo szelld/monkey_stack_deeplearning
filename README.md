@@ -1,4 +1,4 @@
-# DeepLearning Homework for Offered Grade (Megajánlott Jegyért)
+# DeepLearning Homework for Offered Grade (Megajánlott Jegyért, final)
 
 ## Team Name: Monkey_stack  
 ### Team Members:
