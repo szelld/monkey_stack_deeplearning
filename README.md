@@ -47,4 +47,4 @@ If you want to retrain the model, the dual GPU setup will only work seamlessly i
 - A comprehensive Word document is available, detailing all the technologies and experiments conducted during the project.  
 
 ### Final Accuracy  
-- **AUC:** Approximately 94% using CNN and Random Forest methods.  
+- **AUC:** Approximately 90% using CNN and Random Forest methods.  
